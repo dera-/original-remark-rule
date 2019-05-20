@@ -1,6 +1,6 @@
 {
-  "name": "remark-dera-original-rule",
-  "version": "0.0.1",
+  "name": "@dera-/remark-preset-lint",
+  "version": "0.1.0",
   "description": "独自のremarkルールが記載されたもの",
   "main": "index.js",
   "keywords": [],

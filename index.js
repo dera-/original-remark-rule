@@ -1,11 +1,4 @@
-/**
- * @fileoverview
- *   remark preset to configure remark-lint with settings that
- *   prevent mistakes or syntaxes that do not work correctly
- *   across vendors.
- */
-
-"use strict"
+"use strict";
 
 module.exports.plugins = [
 	require("remark-lint"),
@@ -62,4 +55,4 @@ module.exports.plugins = [
 	[require("remark-lint-no-heading-content-indent"), true],
 	[require("remark-lint-no-heading-indent"), true],
 	[require("remark-lint-no-tabs"), true]
-]
+];
